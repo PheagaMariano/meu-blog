@@ -45,9 +45,13 @@
 
 
       <main>
-        <div>
-            <div>
-                <h1>Seja Bem </h1>
+        <div class="m-5 px-5">
+            <div class="mx-5 p-2">
+                <div class="mx-5 px-5">
+                    <h1>Sobre Mim</h1>
+                    <p>Desenvolvido por <a href="http://google.com" target="_blank">Pedro figueiredo</a></p>
+                    <p>Olá! Sou um desenvolvedor apaixonado por tecnologia, com um forte foco em programação. Além de adorar criar soluções inovadoras e eficientes, também sou um entusiasta de café e um habilidoso na modelagem 3D. Com experiência em desenvolvimento de software e colaboração em equipes, estou sempre em busca de novos desafios e oportunidades para aprender e aplicar as últimas tecnologias. Estou animado para contribuir com meu conhecimento e habilidades em projetos que buscam excelência e impacto positivo</p>
+                </div>
             </div>
         </div>
       </main>
